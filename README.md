@@ -1,4 +1,4 @@
-# Data-structure
+# 자료구조
 
 
 | Week | 실습문제 | 과제 | 커리큘럼 내용 |
